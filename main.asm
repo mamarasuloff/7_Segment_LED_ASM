@@ -1,7 +1,7 @@
 ;
 ; 7_Segment_LED.asm
 ;
-; Created: 06.08.2020 16:10:17
+; Created: 12.04.2022 11:20:17
 ; Author : Mamarasulov Z.
 ;
 
